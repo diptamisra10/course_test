@@ -12,3 +12,8 @@ We can see that the sales in this region is 341k $. The total sale is high in 4t
 Total unit sold 5239. The office suppliers are top gainer.
 
 ##Second we visualize the East region of country
+![Screenshot (220)](https://github.com/user-attachments/assets/6a7e5953-8bdc-4798-a842-e75174eae5ef)
+
+##Third we visualize the west region of the country
+
+
